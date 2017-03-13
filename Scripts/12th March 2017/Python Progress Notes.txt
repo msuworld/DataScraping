@@ -1,0 +1,36 @@
+Basic commands to Rememember 
+
+Activating a Virtual Environment 
+
+- Go to Scripts folder and type  activate
+
+pip install beautifulsoup4
+
+- Testing Beautiful Soup Installation 
+
+Type Python and Type,  from bs4 import BeautifulSoup and if there is no output it was installed correctly 
+
+- Check List of Virtual Environments 
+
+lsvirtualenv
+
+Code Notes -
+
+Ch1.1- Scrap HTML Test 
+
+Ch1.2- Using BeautifulSoup to read Header 
+
+Ch1.3- 
+
+
+Problems and Solutions - Python Auto Indention 
+
+
+
+
+
+
+
+
+
+-  Sharing the project in GIT and 
